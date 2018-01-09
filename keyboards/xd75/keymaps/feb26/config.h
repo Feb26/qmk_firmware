@@ -35,4 +35,6 @@
 #undef MOUSEKEY_DELAY
 #define MOUSEKEY_DELAY 0
 
+#define BACKLIGHT_BREATHING
+
 #endif
